@@ -1,4 +1,4 @@
-# jsdelivr-packets
+# jsdelivr-packages
 
 ## Project setup
 ```
